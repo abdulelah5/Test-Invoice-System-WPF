@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Compile Update="UI\customers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\invoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UI\products.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="UI\customers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI\invoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UI\products.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

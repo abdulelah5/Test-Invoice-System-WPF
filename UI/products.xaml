@@ -1,0 +1,25 @@
+﻿<Window x:Class="invoiceWPF2.UI.products"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:invoiceWPF2.UI"
+        mc:Ignorable="d"
+        Title="products" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgvProducts" Margin="299,19,24,151" Loaded="Edit_Load" SelectionChanged="dgvProducts_SelectionChanged"/>
+        <Label Content="Items:" HorizontalAlignment="Left" Margin="26,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.505,0.618" Width="98" FontSize="14"/>
+        <TextBox x:Name="txtPID" HorizontalAlignment="Left" Margin="129,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+        <Label Content="Amount:" HorizontalAlignment="Left" Margin="26,176,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.505,0.618" Width="98" FontSize="14"/>
+        <TextBox x:Name="txtAmount" HorizontalAlignment="Left" Margin="129,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Description:" HorizontalAlignment="Left" Margin="26,137,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.505,0.618" Width="98" FontSize="14"/>
+        <TextBox x:Name="txtPdescription" HorizontalAlignment="Left" Margin="129,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Price:" HorizontalAlignment="Left" Margin="26,213,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.505,0.618" Width="98" FontSize="14"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="129,218,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="addProducts" Content="Add" HorizontalAlignment="Left" Margin="189,326,0,0" VerticalAlignment="Top" Background="#FF44AD30" FontSize="14" Width="54" Click="addProducts_Click"/>
+        <Button x:Name="updateProducts" Content="Update" HorizontalAlignment="Left" Margin="325,326,0,0" VerticalAlignment="Top" Background="#FF87C7A8" FontSize="14" Width="59" Click="updateProducts_Click"/>
+        <Button x:Name="deleteProducts" Content="Delete" HorizontalAlignment="Left" Margin="457,326,0,0" VerticalAlignment="Top" Background="#FFB93F33" FontSize="14" Width="60" Click="deleteProducts_Click"/>
+        <Button x:Name="cancelProducts" Content="Cancel" HorizontalAlignment="Left" Margin="589,326,0,0" VerticalAlignment="Top" Background="#FFF1E9E9" FontSize="14" Width="58" Click="cancelProducts_Click"/>
+
+    </Grid>
+</Window>

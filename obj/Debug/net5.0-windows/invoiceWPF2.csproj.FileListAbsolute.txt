@@ -1,0 +1,114 @@
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csprojAssemblyReference.cache
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\customers.g.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\invoice.g.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\products.g.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.cache
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.lref
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.exe
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.deps.json
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.json
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.dev.json
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\ref\invoiceWPF2.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.pdb
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\customers.baml
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\invoice.baml
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\UI\products.baml
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.g.resources
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfoInputs.cache
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfo.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csproj.CopyComplete
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\ref\invoiceWPF2.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.pdb
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.genruntimeconfig.cache
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.dll.config
+C:\Users\Abdulelah\source\repos\invoiceWPF2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Abdulelah\source\repos\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.exe
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.dll.config
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.deps.json
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.json
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.dev.json
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\ref\invoiceWPF2.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\invoiceWPF2.pdb
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csproj.AssemblyReference.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\customers.g.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\invoice.g.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\products.g.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.lref
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\customers.baml
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\invoice.baml
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\MainWindow.baml
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\UI\products.baml
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.g.resources
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfoInputs.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfo.cs
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csproj.CoreCompileInputs.cache
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.csproj.CopyComplete
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\ref\invoiceWPF2.dll
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.pdb
+C:\Users\Abdulelah\Desktop\Personal project-C#\invoiceWPF2\obj\Debug\net5.0-windows\invoiceWPF2.genruntimeconfig.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.exe
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.dll.config
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.deps.json
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.json
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.runtimeconfig.dev.json
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\invoiceWPF2.pdb
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.csproj.AssemblyReference.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\customers.g.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\invoice.g.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\MainWindow.g.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\products.g.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\App.g.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2_MarkupCompile.lref
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\customers.baml
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\invoice.baml
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\MainWindow.baml
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\UI\products.baml
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.g.resources
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfoInputs.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.AssemblyInfo.cs
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.csproj.CoreCompileInputs.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceW.3EAD00E4.Up2Date
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\refint\invoiceWPF2.dll
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.pdb
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\invoiceWPF2.genruntimeconfig.cache
+D:\Personal project-C#\invoiceWPF2\invoiceWPF git\obj\Debug\net5.0-windows\ref\invoiceWPF2.dll
